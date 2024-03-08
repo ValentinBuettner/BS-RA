@@ -196,7 +196,7 @@ c) Kennzeichnen Sie die entstehenden Seitenfehler!
 <details>
   <summary>Ein Paging-System hat einen maximalen virtuellen Speicher von 32 MB. Die Seitengröÿe beträgt 1024
 Byte und die Seitentabelle eines aktiven Prozesses hat folgende Zuordnung:</summary>
-![image](https://github.com/ValentinBuettner/BS-RA/assets/157825537/0804b690-d8f9-4326-a871-69ca7e3d7d7b)
+![alt text](https://github.com/ValentinBuettner/BS-RA/assets/157825537/0804b690-d8f9-4326-a871-69ca7e3d7d7b)
 
 a) Welche virtuelle Adresse wird mit der physischen Adresse 4500 abgebildet? 
 b) Berechnen Sie die physische Anfangsadresse des Speicherbereichs der Seite des virtuellen Speichers
