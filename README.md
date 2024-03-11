@@ -341,7 +341,7 @@ Speicherplatz genutzt und auch wieder freigegeben. Die Gröÿe der Partitionen k
 jedoch nicht mehr verändert werden. Durch die Freigaben entstehen so, unter Umständen,
 Partitionen welche zu klein für manche Prozesse sind und ungenutzt bleiben. Diese nennt
 man Externe Fragmente.
-* Bei Buddy-Systemen kommt es zu interner und externer Fragmentierung, da der BuddyAlgorithmus ein Kompromiss zwischen statischer und dynamischer Partitionierung ist
+* Bei Buddy-Systemen kommt es zu interner und externer Fragmentierung, da der Buddy-Algorithmus ein Kompromiss zwischen statischer und dynamischer Partitionierung ist
 </details>
 <br>
 
@@ -376,7 +376,7 @@ RR mit einem Quantum von q=3, FCFS, SJF, SRPT.</summary>
 <details>
   <summary>22. Welche Effekte treten auf, wenn man bei der Verwendung von Round Robin das Quantum zu groß bzw. zu klein wählt?</summary>
   
-* zu kleines Quantum: Overhead entsteht durch übermäÿig viele Kontextwechsel (häuges Dispatching), Zeitverschwendung.
+* zu kleines Quantum: Overhead entsteht durch übermäßig viele Kontextwechsel (häufiges Dispatching), Zeitverschwendung.
 * zu großes Quantum: Strategie nähert sich FCFS an und erreicht FCFS wenn Quantum gleich der längsten Bearbeitungsdauer
 </details>
 <br>
