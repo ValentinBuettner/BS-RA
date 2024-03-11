@@ -363,13 +363,16 @@ man Externe Fragmente.
 <br>
 
 <details>
-  <summary>21.. Gegeben sind die Prozesse P1, P2, P3, P4, und P5. Die Prozesse betreten zu verschiedenen Zeiten
+  <summary>21. Gegeben sind die Prozesse P1, P2, P3, P4, und P5. Die Prozesse betreten zu verschiedenen Zeiten
 das System. Der Prozess P1 ist bei t1 = 0, P2 bei t2 = 2, P3 bei t3 = 4, P4 bei t4 = 6 und
 P5 bei t5 = 8 bereit. Die Prozesse benötigen in der Reihenfolge ihrer Nennung 4, 9, 5, 7 und 3
 Zeiteinheiten für die Bearbeitung. Geben Sie für die Prozesse die Ausführungsreihenfolge an für
 RR mit einem Quantum von q=3, FCFS, SJF, SRPT.</summary>
+
   
-* 
+* ![Prozessreihenfolge](https://github.com/ValentinBuettner/BS-RA/blob/main/Prozessreihenfolge.png)
+
+  
 </details>
 <br>
 
