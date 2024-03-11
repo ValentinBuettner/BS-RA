@@ -402,6 +402,15 @@ der Antworten auf dem Ausgabegerät sollte kurz sein)
 </details>
 <br>
 
+<details>
+  <summary>24. Programmieraufgaben</summary>
+  
+* ![Prog1](https://github.com/ValentinBuettner/BS-RA/blob/main/RAProg1L%C3%B6s.pdf)
+
+* ![Prog2](https://github.com/ValentinBuettner/BS-RA/blob/main/RAProg2l%C3%B6sung.pdf)
+</details>
+<br>
+
 
 # Alte Klausuren
 ## 2.AD-Wandlung
