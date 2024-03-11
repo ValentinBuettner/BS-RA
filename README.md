@@ -321,10 +321,13 @@ E mit 400 KByte gefolgt von Prozess F mit 120 KByte betreten das System. </summa
 <br>
 
 <details>
-  <summary>17. Ein Prozess habe die Seitenanforderungen {2, 3, 2, 1, 5, 2, 4, 6, 3, 2, 5, 2, 4, 1, 3, 6}. Der Hauptspeicher besteht aus vier Kacheln die zu Beginn nicht belegt sind. Berechnen Sie die Belegung desSpeichers mit LFD, LRU, Clock und FiFo! Wie viele Seitenfehler treten je Verfahren auf?
+  <summary>17. Ein Prozess habe die Seitenanforderungen {2, 3, 2, 1, 5, 2, 4, 5, 3, 2, 5, 2}. Der Hauptspeicher besteht aus vier Kacheln die zu Beginn nicht belegt sind. Berechnen Sie die Belegung desSpeichers mit LFD, LRU, Clock und FiFo! Wie viele Seitenfehler treten je Verfahren auf?
 </summary>
   
-* Verschiedene Algorithmen anschauen
+![LFD](https://github.com/ValentinBuettner/BS-RA/blob/main/LFD.png)
+![rest](https://github.com/ValentinBuettner/BS-RA/blob/main/restlichenAlgorithmen.png)
+
+  
 </details>
 <br>
 
