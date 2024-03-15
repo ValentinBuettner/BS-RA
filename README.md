@@ -5,7 +5,7 @@
 <details>
   <summary>1. Definieren Sie den Begriff Rechnerarchitektur!</summary>
   
-  * Rechnerarchitektur ist ein Teilgebiet der technischen Informatik und befasst sich mit der Beschreibung von Rechnern aus vorgefertigten Bausteinen und der Verbindung (Organisation) dieser Bausteine
+  * Rechnerarchitektur ist ein Teilgebiet der technischen Informatik und befasst sich mit der Beschreibung von Rechnern aus vorgefertigten Bausteinen und der Verbindung (Organisation) dieser Bausteine
 
 </details>
 <br>
@@ -396,7 +396,7 @@ RR mit einem Quantum von q=3, FCFS, SJF, SRPT.</summary>
 * Fairness: Keine Sonderbehandlung von Jobs
 * Low Turnaround Time: Niedrige Ausführungszeit (Zeitspanne von Jobbeginn bis Jobende)
 * Low Waiting Time: Niedrige Wartezeit (Schedulerstrategie beschränkt sich auf Minimierung
-der Wartezeit in der ?ready? ?Liste
+der Wartezeit in der "ready"-Liste
 * Low Response Time: Niedrige Antwortzeit (Zeit zwischen interaktiver Eingabe und Ausgabe
 der Antworten auf dem Ausgabegerät sollte kurz sein)
 </details>
