@@ -576,6 +576,7 @@ a) Welche virtuelle Adresse wird mit der physischen Adresse 4500 abgebildet?
 
 b) Berechnen Sie die physische Anfangsadresse des Speicherbereichs der Seite des virtuellen Speichers
 mit der Nummer 3! 
+
 Seite 3 also Seitenrahmennummer 10  
 => 10  x 1024 = 10240
 </details>
