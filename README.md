@@ -570,8 +570,13 @@ Byte und die Seitentabelle eines aktiven Prozesses hat folgende Zuordnung:</summ
 
   
 a) Welche virtuelle Adresse wird mit der physischen Adresse 4500 abgebildet? 
+
+4500 / 1024 = 4 R404 => Seitenrahmennummer = 4, also Seitennummer = 2 und Offset = 404
+=> 2 x 1024 + 404 = 2452
+
 b) Berechnen Sie die physische Anfangsadresse des Speicherbereichs der Seite des virtuellen Speichers
 mit der Nummer 3! 
-
+Seite 3 also Seitenrahmennummer 10  
+=> 10  x 1024 = 10240
 </details>
 <br>
